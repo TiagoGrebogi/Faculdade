@@ -12,3 +12,5 @@ produto2 = ProdutoEletronico("WaterCooler", "RiseMode", 300)
 
 produto1.exibir()
 produto2.exibir()
+
+#asd
